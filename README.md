@@ -1,5 +1,8 @@
 # Asteroid-Game-using-SFML-C++
 
+![Working](./VID-20210706-WA-1625554464352.gif)
+
+
 SFML Setup: https://www.youtube.com/watch?v=fcZFaiGFIMA
 
 <h2>Refer main.cpp only</h2> <br>
