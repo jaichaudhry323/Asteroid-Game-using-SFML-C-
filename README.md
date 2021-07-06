@@ -1,5 +1,7 @@
 # Asteroid-Game-using-SFML-C++
 
+SFML Setup: https://www.youtube.com/watch?v=fcZFaiGFIMA
+
 Refer main.cpp <br>
 (The only file that has the code i have written, Rest All are just for SFML library added by default after setting up SFML for codeblocks)<br>
 Its has all the running code
