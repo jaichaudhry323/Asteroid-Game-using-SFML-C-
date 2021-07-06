@@ -5,7 +5,7 @@
 
 SFML Setup: https://www.youtube.com/watch?v=fcZFaiGFIMA
 
-<h2>Refer main.cpp only</h2> <br> 
+<h2>Refer main.cpp only</h2> 
 Its has all the running code
 <br>
 Run it and the game will run 
